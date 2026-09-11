@@ -2,6 +2,7 @@
 .mplconfig/
 .ultralytics/
 Ultralytics/
+utils/
 results/*
 !results/README.md
 __pycache__/
