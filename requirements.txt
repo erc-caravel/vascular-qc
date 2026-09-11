@@ -1,0 +1,10 @@
+# Medical-image registration and MIP generation
+antspyx==0.6.3
+SimpleITK==2.5.6
+nibabel==5.4.2
+opencv-python==5.0.0.93
+
+# YOLO inference
+ultralytics==8.4.144
+torch==2.14.0
+torchvision==0.29.0

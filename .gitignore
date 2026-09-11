@@ -1,0 +1,8 @@
+.venv/
+.mplconfig/
+.ultralytics/
+Ultralytics/
+results/*
+!results/README.md
+__pycache__/
+*.py[cod]
