@@ -1,6 +1,6 @@
 # Data
 
-This folder contains input images only; patient data should not be committed unless project policy explicitly permits it.
+This folder contains input images only.
 
 ```text
 data/
