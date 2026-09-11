@@ -46,3 +46,14 @@ See the README in each folder for the remaining commands, expected inputs, and o
 ## Conventions
 
 Standardized MIP files are named `<dataset>_<model_name>_<id>.png`, for example `IXI_manual_012.png` or `TubeTK_manual_105.png`. MIP metadata is stored beside the `MIPs_Mid_32/Plain` image as `<stem>_meta.json` and is required for cross-view IoU.
+
+## Citation
+
+If you use this repository, please cite:
+
+```text
+Bogdan Ion, Xiaoming Zhang, Leonard Vincent Ramil, Alice Boccadifuoco,
+Sebastien Ourselin, Jon Orlando Cleary, and Maria A. Zuluaga.
+Projection-Based Quality Assessment of Cerebrovascular Segmentations.
+Keywords: Cerebrovasculature, Quality Assessment, Segmentation.
+```
